@@ -1,0 +1,2 @@
+# ASSETS-OPEN
+公开资源
